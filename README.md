@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) compare les schémas FHE, le bruit, CKKS, le bootstrapping et les clés.
+
 OpenFHE - Open-Source Fully Homomorphic Encryption Library
 =====================================
 
